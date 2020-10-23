@@ -6,10 +6,10 @@ I am amaljith. My main interest lies in Data science and Machine Learning. I als
 
 
 - 🔭 I’m currently working on Data science project
-- 🌱 I’m currently learning best practices for ML and Big Data.
+- 🌱 I’m currently learning best practices for ML and DeepLearning.
 - 👯 I’m looking to collaborate on any ML or DataScience project
 - 🤔 I’m looking for help with docker deployment
-- 💬 Ask me about Numpy,Pandas,Seaborn
+- 💬 Ask me about Numpy,Pandas,Seaborn,matplotlib,opencv,scikit-learn
 - 📫 How to reach me: contact me directly on this mail amal496@gmail.com
 - 😄 Pronouns: you can give one
 - ⚡ Fun fact: I can work without music
